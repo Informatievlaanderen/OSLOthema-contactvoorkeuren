@@ -9,6 +9,6 @@ applicatieprofiel ook een entiteit 'Toestemming' waarmee een specifieke toestemm
 verwerkingsactiviteit kan gecapteerd worden. Bijvoorbeeld de toestemming om via e-mail een nieuwsbrief te ontvangen van 
 Informatie Vlaanderen in verband met de Dienstverlening die door hen wordt aangeboden.
 De toepassing van dit applicatieprofiel garandeert geen conformiteit met de 
-[Algemene Verordening Gegevensbescherming (GDPR)](http://data.europa.eu/eli/reg/2016/679/oj)
+[Algemene Verordening Gegevensbescherming \(GDPR\) ](http://data.europa.eu/eli/reg/2016/679/oj)
 maar biedt hergebruikers een instrument om de relevante entiteiten en relaties die nodig zijn in de context van een correcte 
 verwerking van persoonsgegevens op een gestructureerde manier te beschrijven.
