@@ -2,4 +2,9 @@
   -- initiele upload in contactvoorkeuren
 20 aug 2025
   -- aanpassingen aan toolchain 4
-  -- enumeratiewaarden notificatiekanaal verwijderd 
+
+ OSLO-Contactvoorkeuren-AP.eap  
+  - enumeratiewaarden notificatiekanaal verwijderd  
+
+ OSLO-Toestemming-VOC.eap 
+  - OSLO mandaat package verwijderd
