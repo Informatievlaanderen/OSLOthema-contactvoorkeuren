@@ -6,12 +6,12 @@
     "diagram": "OSLO-Toestemming",
     "template": "toestemming-voc.j2",
     "title": "Toestemming",
-    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/Standaard",
-    "publication-date": "2019-02-07",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+    "publication-date": "2025-08-25",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Toestemming",
     "site": "site-skeleton",
-    "feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion",
+    "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-contactvoorkeuren/issues",
     "standaardregisterurl": "https://data.vlaanderen.be/standaarden/vocabularium-toestemming/"
   }
 ]

@@ -16,4 +16,5 @@
     Deze zijn niet van belang voor het vocabularium
   - voeg expliciet package tag toe en extra cardinaliteit voor eigenschap gegeven voor
   - eigenschap status heeft nu range skos:Concept
+  - voeg de ontbrekende eigenschappen toe met status ontwerp
   
