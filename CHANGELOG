@@ -7,6 +7,8 @@
   - enumeratiewaarden notificatiekanaal verwijderd  
   - maak de ontbrekende enumeraties as explicite klassen gemapt op skos:Concept
   - verwijder expliciete range tag voor eigenschap verwijst naar en voeg klasse Adres toe om de rendering van html
+  - verwijder source 0..* cardinaliteiten omdat die aanleiding geven tot bijkomende en nietgewenste eigenschappen
+  - pas het label aan voor de klasse Verwerkingsactiviteit
 
  OSLO-Toestemming-VOC.eap 
   - OSLO mandaat package verwijderd
