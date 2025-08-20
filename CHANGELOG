@@ -5,6 +5,7 @@
 
  OSLO-Contactvoorkeuren-AP.eap  
   - enumeratiewaarden notificatiekanaal verwijderd  
+  - maak de ontbrekende enumeraties as explicite klassen gemapt op skos:Concept
 
  OSLO-Toestemming-VOC.eap 
   - OSLO mandaat package verwijderd
