@@ -10,3 +10,5 @@
 
  OSLO-Toestemming-VOC.eap 
   - OSLO mandaat package verwijderd
+  - zet enkele eigenschappen voor Organisatie en Persoon op ignored. 
+    Deze zijn niet van belang voor het vocabularium
