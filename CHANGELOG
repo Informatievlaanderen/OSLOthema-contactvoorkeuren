@@ -14,3 +14,6 @@
   - OSLO mandaat package verwijderd
   - zet enkele eigenschappen voor Organisatie en Persoon op ignored. 
     Deze zijn niet van belang voor het vocabularium
+  - voeg expliciet package tag toe en extra cardinaliteit voor eigenschap gegeven voor
+  - eigenschap status heeft nu range skos:Concept
+  
